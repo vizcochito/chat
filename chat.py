@@ -4,3 +4,4 @@ print("Victor: ohhh vivirán en esa casita?, cuánta gente ha salido?, ves no se
 print("Pablo: Brigido wn son como los 7 enanitos en la misma casa. la deben transportar en ese carrito azul. Es como el bolsillo de Doraemon")
 print("Victor: Wm creo que me gustan tus ojos, qué puedo hacer con lo que siento?")
 print("Pablo: Wn lo siento, no eres de mi interés, pero el de la casita de abajo igual comparte los mismos gustos contigo. Tiene pinta de ser buen marido")
+print("Victor: Bueno, no se pierde con intentar, creo que me iré a mi casa wn, tengo sueño")
